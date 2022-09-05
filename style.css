@@ -1,0 +1,42 @@
+.footer{
+	background-color: red;
+	font-size:17px;
+	font-style: italic;
+	font-family: Georgia;
+	text-align: center;
+
+}
+.line1{
+	color: blue;
+	height :300px;
+	width: 300px;
+}
+.line2{
+	background-color: red;
+	border: thick solid grey;
+	font-size:17px;
+	font-style: italic;
+	font-family: Georgia;
+}
+#mocha{
+
+	border-top-style: dotted ;
+	border-top-width: 2px;
+	border-top-color: blue;
+}
+.pricing-table{
+	width: 100%;
+	border: 2px solid green;
+	font-family: "Arial Black",Gadget,sans-serif;
+	text-align: center;
+
+}
+caption{
+	color: #33D7FF;
+}
+th{
+	background-color:#33FF78 
+}
+.tr-out-of-stock:hover{
+	background-color: #F733FF;
+}
